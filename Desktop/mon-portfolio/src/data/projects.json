@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "title": "Application de recherche d'hébergéments et d'activités",
+      "description": "Intégration complète de la maquette d’un site de recherche d’hébergements et d’activités",
+      "image": "../assets/booki.png",
+      "technologies": ["HTML", "CSS"],
+      "realisation": [
+        "Implémentation de l'interface responsive avec HTML et CSS",
+        "Intégration fidèle des maquettes desktop, tablette et mobile fournies par le designer",
+        "Versionnage du projet avec Git et GitHub",
+        "Configuration d'un environnement de développement front-end efficace",
+        "Optimisation du code pour assurer une expérience utilisateur fluide sur tous les supports"
+        ],
+        "info":"gvhvhgvh",
+      "link": "https://github.com/lbrugiere/Booki-projet2"
+    },
+    {
+        "id": 2,
+        "title": "Portfolio Architecte",
+        "description": "Développement complet d'une page web dynamique en JavaScript, incluant affichage des travaux, page de connexion admin et modale d’upload de médias.",
+        "image": "",
+        "technologies": ["JavaScript", "HTML", "CSS", "API REST", "Figma"],
+        "realisation": [
+          "Création d'une page web dynamique à partir du HTML statique fourni",
+          "Manipulation du DOM en JavaScript pour afficher les travaux de l'architecte",
+          "Gestion des événements utilisateurs pour filtrer et naviguer dans la galerie",
+          "Création from scratch d'une page de connexion administrateur avec récupération des données du formulaire",
+          "Intégration de la connexion avec authentification via API",
+          "Développement d'une modale d’upload permettant d’ajouter de nouveaux médias",
+          "Implémentation complète de la communication avec une API REST fournie",
+          "Utilisation de Figma pour respecter la maquette et assurer la cohérence UI",
+          "Versionnage du projet avec Git et travail structuré via un Kanban"
+        ],
+        "info": "Projet réalisé pour l’agence ArchiWebos. Développement dynamique en JavaScript pur, interactions avancées avec API, gestion du DOM, modale, authentification.",
+        "link": "https://github.com/lbrugiere/Sophie_Bluel_Projet3"
+    },
+    {
+        "id": 3,
+        "title": "Site de photographe",
+        "description": "Audit, débogage et optimisation complète des performances, de l’accessibilité et du référencement du site de la photographe Nina Carducci.",
+        "image": "",
+        "technologies": ["HTML", "CSS", "JavaScript", "Lighthouse", "Wave", "Chrome DevTools", "SEO"],
+        "realisation": [
+          "Audit complet du site via Lighthouse (performance, SEO) et Wave (accessibilité)",
+          "Identification des problèmes de chargement et de référencement",
+          "Optimisation des images trop lourdes pour améliorer la vitesse du site",
+          "Refactorisation et nettoyage de la structure du code pour de meilleures performances",
+          "Débogage approfondi avec Chrome DevTools pour corriger les erreurs existantes",
+          "Amélioration de l’accessibilité selon les recommandations Wave",
+          "Optimisation du SEO : structure HTML, balises meta, bonnes pratiques",
+          "Création d’un rapport avant/après avec résultats des audits",
+          "Rédaction d’un cahier de recette listant les cas d’usage à tester"
+        ],
+        "info": "Projet réalisé en tant que développeur pour optimiser le site de la photographe Nina Carducci. Travail centré sur le SEO, les performances, l’accessibilité et la qualité du code.",
+        "link": "https://github.com/lbrugiere/Nina-Carducci-Projet4"
+      },
+      {
+        "id": 4,
+        "title": "Application de location immobilière",
+        "description": "Développement complet du front-end de la nouvelle plateforme Kasa en utilisant React, React Router et une architecture moderne basée sur des composants.",
+        "image": "",
+        "technologies": ["React", "React Router", "Vite", "Sass", "JavaScript"],
+        "realisation": [
+          "Initialisation du projet avec Vite et configuration de l’environnement React",
+          "Création d’une architecture de composants réutilisables conforme aux guidelines internes de Kasa",
+          "Implémentation de la navigation entre les pages via React Router",
+          "Intégration complète des maquettes Figma, responsives et conformes au design système",
+          "Développement du composant Gallery avec navigation circulaire des images (carousel infini)",
+          "Gestion des comportements conditionnels : masquage des flèches et pagination si une seule image",
+          "Développement du composant Collapse avec animations CSS et logique ouverte/fermée",
+          "Découpage de l’interface en composants logiques, lisibles et maintenables",
+          "Intégration des données JSON simulant le back-end en attendant l'API finale",
+          "Utilisation de Sass pour structurer le style et créer des animations fluides"
+        ],
+        "info": "Projet réalisé en collaboration avec l’équipe de Kasa pour la refonte complète du site. L’objectif était de développer toute l’application front-end avec React, en suivant strictement les maquettes Figma et les contraintes fonctionnelles (carrousel circulaire, collapses animés, gestion des routes).",
+        "link": "https://github.com/lbrugiere/Kasa-Projet5"
+      },
+      {
+        "id": 5,
+        "title": "Site de notation de livres",
+        "description": "Développement complet du back-end d’un site de notation de livres avec Node.js, Express et MongoDB, incluant authentification et gestion CRUD sécurisée.",
+        "image": "",
+        "technologies": ["Node.js", "Express", "MongoDB", "Mongoose", "API REST", "MVC"],
+        "realisation": [
+          "Création du serveur Node.js avec Express et configuration des routes RESTful",
+          "Mise en place de la base de données MongoDB et modélisation avec Mongoose",
+          "Implémentation complète des opérations CRUD pour les livres et les notations",
+          "Développement d’un système d’authentification sécurisé pour les utilisateurs",
+          "Optimisation et stockage sécurisé des images envoyées par les utilisateurs",
+          "Calcul automatique de la note moyenne des livres à partir des notations",
+          "Structuration de l’application selon le modèle MVC pour une meilleure maintenabilité",
+          "Respect des bonnes pratiques de Green Code pour réduire l’empreinte écologique",
+          "Test et validation de l’API pour une intégration fluide avec le front-end React existant"
+        ],
+        "info": "Projet réalisé en freelance pour la chaîne de librairies « Mon Vieux Grimoire ». L’objectif était de créer un back-end complet et sécurisé pour gérer les livres et les notes, optimisé pour la performance et l’intégration avec un front-end React fourni.",
+        "link": "https://github.com/lbrugiere/Mon-Vieux-Grimoire-Projet6"
+      }
+      
+      
+      
+  ]
+  
