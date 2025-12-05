@@ -1,10 +1,17 @@
 import React from 'react';
+import { motion } from 'framer-motion';
 import projects from '../data/projects.json';
 import { techIcons, techColors } from '../utils/techIcons';
 
 export default function ProjectsSection({ onProjectClick }) {
   return (
-    <section id="projects" className="bg-dark-secondary py-16">
+    <motion.section 
+    initial={{ opacity: 0, y: 50 }}
+    whileInView={{ opacity: 1, y: 0 }}
+    viewport={{ once: true, amount: 0.3 }}
+    transition={{ duration: 0.9 }} 
+    id="projects" 
+    className="bg-dark-secondary py-16">
       <div className="max-w-6xl mx-auto px-6">
         <h2 className="text-4xl text-warm-accent font-serif mb-12 text-left">Projets</h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -33,6 +40,6 @@ export default function ProjectsSection({ onProjectClick }) {
           ))}
         </div>
       </div>
-    </section>
+    </motion.section>
   );
 }
