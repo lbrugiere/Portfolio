@@ -9,7 +9,7 @@ export default function SkillsCarousel({ skills }) {
     if (!scrollRef.current) return;
 
     const cardWidth =
-      scrollRef.current.firstChild?.clientWidth || 200; 
+      scrollRef.current.firstChild?.clientWidth || 260; 
 
     scrollRef.current.scrollBy({
       left: direction === "right" ? cardWidth + 16 : -cardWidth - 16,

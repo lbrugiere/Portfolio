@@ -12,7 +12,7 @@
         "Configuration d'un environnement de développement front-end efficace",
         "Optimisation du code pour assurer une expérience utilisateur fluide sur tous les supports"
         ],
-        "info":"gvhvhgvh",
+        "info":"Contexte : La start-up Booki souhaitait créer un site permettant aux utilisateurs de trouver des hébergements et activités dans leur ville, avec une interface claire et responsive.\n\nObjectifs : Intégrer fidèlement la maquette fournie en HTML et CSS, en veillant à la compatibilité mobile et desktop, tout en respectant la structure de fichiers et les bonnes pratiques de développement.\n\nRésultats et impact : Une page d'accueil responsive fonctionnelle, respectant les maquettes pour tous les appareils, livrée avec un projet versionné sur GitHub. L'intégration permet une expérience utilisateur optimale et une base solide pour le développement futur du site.",
       "link": "https://github.com/lbrugiere/Booki-projet2"
     },
     {
@@ -32,7 +32,7 @@
           "Utilisation de Figma pour respecter la maquette et assurer la cohérence UI",
           "Versionnage du projet avec Git et travail structuré via un Kanban"
         ],
-        "info": "Projet réalisé pour l’agence ArchiWebos. Développement dynamique en JavaScript pur, interactions avancées avec API, gestion du DOM, modale, authentification.",
+        "info": "Contexte : L’agence ArchiWebos a confié le développement du site portfolio d’une architecte d’intérieur à son équipe front-end, et vous êtes intégré pour renforcer l’équipe sur les fonctionnalités dynamiques.\n\nObjectifs : Créer une page web interactive permettant la présentation des travaux, gérer les interactions utilisateurs, la connexion administrateur et l’upload de médias, tout en communiquant avec le back-end via une API.\n\nRésultats et impact : Une page web dynamique fonctionnelle avec un site responsive, une gestion sécurisée des accès administrateurs, et la possibilité pour le client de mettre à jour le contenu facilement. Le site offre une expérience utilisateur interactive et moderne.",
         "link": "https://github.com/lbrugiere/Sophie_Bluel_Projet3"
     },
     {
@@ -52,7 +52,7 @@
           "Création d’un rapport avant/après avec résultats des audits",
           "Rédaction d’un cahier de recette listant les cas d’usage à tester"
         ],
-        "info": "Projet réalisé en tant que développeur pour optimiser le site de la photographe Nina Carducci. Travail centré sur le SEO, les performances, l’accessibilité et la qualité du code.",
+        "info": "Contexte : Le site de Nina Carducci avait des temps de chargement longs et un référencement limité, ce qui impactait la visibilité des visiteurs.\n\nObjectifs : Améliorer la vitesse de chargement, optimiser le code et renforcer l'accessibilité pour un meilleur SEO.\n\nRésultats et impact : Le site a été audité, les images et le code optimisés, et un rapport détaillant les améliorations a été fourni. Les performances et l'accessibilité ont été mesurées avant et après optimisation.",
         "link": "https://github.com/lbrugiere/Nina-Carducci-Projet4"
       },
       {
@@ -73,7 +73,7 @@
           "Intégration des données JSON simulant le back-end en attendant l'API finale",
           "Utilisation de Sass pour structurer le style et créer des animations fluides"
         ],
-        "info": "Projet réalisé en collaboration avec l’équipe de Kasa pour la refonte complète du site. L’objectif était de développer toute l’application front-end avec React, en suivant strictement les maquettes Figma et les contraintes fonctionnelles (carrousel circulaire, collapses animés, gestion des routes).",
+        "info": "Contexte : Kasa souhaitait une refonte complète de son site de location d'appartements pour moderniser l'expérience utilisateur.\n\nObjectifs : Développer l'interface front-end avec React, respecter les maquettes Figma et assurer la navigation dynamique entre les pages.\n\nRésultats et impact : Une application React fonctionnelle, responsive et animée, avec une navigation fluide et une interface conforme aux maquettes.",
         "link": "https://github.com/lbrugiere/Kasa-Projet5"
       },
       {
@@ -93,7 +93,7 @@
           "Respect des bonnes pratiques de Green Code pour réduire l’empreinte écologique",
           "Test et validation de l’API pour une intégration fluide avec le front-end React existant"
         ],
-        "info": "Projet réalisé en freelance pour la chaîne de librairies « Mon Vieux Grimoire ». L’objectif était de créer un back-end complet et sécurisé pour gérer les livres et les notes, optimisé pour la performance et l’intégration avec un front-end React fourni.",
+        "info": "Contexte : Le client souhaitait un site pour noter et référencer des livres afin d'améliorer la visibilité de sa librairie.\n\nObjectifs : Créer une API back-end robuste et sécurisée pour gérer les livres, les notations et les utilisateurs.\n\nRésultats et impact : Le back-end fournit toutes les routes nécessaires pour le front-end React, avec authentification et gestion sécurisée des données. Les images des livres sont optimisées pour réduire la taille et améliorer les performances.",
         "link": "https://github.com/lbrugiere/Mon-Vieux-Grimoire-Projet6"
       }
       
