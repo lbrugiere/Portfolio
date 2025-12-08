@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "Application de recherche d'hébergements et d'activités",
+      "description": "Intégration complète de la maquette d’un site de recherche d’hébergements et d’activités",
+      "image": "../assets/booki.png",
+      "technologies": ["HTML", "CSS"],
+      "realisation": [
+        "J’ai conçu et intégré une interface responsive fidèle aux maquettes desktop, tablette et mobile, assurant une navigation fluide pour tous les utilisateurs.",
+        "Le projet a été versionné avec Git et GitHub pour assurer un suivi précis et une collaboration efficace.",
+        "J’ai optimisé le code HTML et CSS pour garantir une expérience utilisateur performante et cohérente sur tous les appareils."
+      ],
+      "info": "Contexte : La start-up Booki souhaitait un site clair et intuitif permettant aux utilisateurs de rechercher des hébergements et activités.\nObjectifs : Intégrer la maquette fournie en HTML/CSS, assurer la compatibilité mobile et desktop et mettre en place une structure de fichiers propre.\nRésultats : Page d'accueil responsive livrée avec projet versionné sur GitHub. L'intégration permet une expérience utilisateur fluide et prête pour les développements futurs.",
+      "link": "https://github.com/lbrugiere/Booki-projet2"
+    },
+    {
+      "id": 2,
+      "title": "Portfolio Architecte",
+      "description": "Développement d'une page web dynamique avec connexion admin et modale d’upload.",
+      "image": "",
+      "technologies": ["JavaScript", "HTML", "CSS", "API REST", "Figma"],
+      "realisation": [
+        "J’ai transformé une maquette statique en une page web dynamique, capable d’afficher les travaux et d’interagir avec l’utilisateur via JavaScript.",
+        "J’ai mis en place un système de connexion administrateur et une modale d’upload pour ajouter de nouveaux médias, connectée à une API REST.",
+        "Toutes les fonctionnalités ont été testées et intégrées en respectant la maquette Figma pour un rendu UI cohérent et professionnel."
+      ],
+      "info": "Contexte : Développement du portfolio d'une architecte d'intérieur pour présenter ses projets de manière interactive.\nObjectifs : Créer une page web dynamique, responsive, avec gestion admin et upload de médias, respectant la maquette Figma.\nRésultats : Site fonctionnel, responsive et interactif, avec une interface d'administration simple à utiliser et un contenu facilement modifiable.",
+      "link": "https://github.com/lbrugiere/Sophie_Bluel_Projet3"
+    },
+    {
+      "id": 3,
+      "title": "Site de photographe",
+      "description": "Audit et optimisation du site de Nina Carducci pour performances et accessibilité.",
+      "image": "",
+      "technologies": ["HTML", "CSS", "JavaScript", "Lighthouse", "Wave", "SEO"],
+      "realisation": [
+        "J’ai réalisé un audit complet du site avec Lighthouse et Wave afin d’identifier les problèmes de performance, d’accessibilité et de SEO.",
+        "J’ai optimisé les images et nettoyé la structure du code pour accélérer le chargement et améliorer l’expérience utilisateur.",
+        "J’ai corrigé les erreurs détectées et mis en place des améliorations concrètes pour garantir un site performant et accessible."
+      ],
+      "info": "Contexte : Le site existant de la photographe avait des temps de chargement longs et un référencement limité.\nObjectifs : Améliorer la vitesse de chargement, optimiser le code et renforcer l'accessibilité.\nRésultats : Site optimisé pour la rapidité et l'accessibilité, avec un référencement amélioré. Rapport détaillé fourni pour suivre les améliorations avant/après.",
+      "link": "https://github.com/lbrugiere/Nina-Carducci-Projet4"
+    },
+    {
+      "id": 4,
+      "title": "Application de location immobilière",
+      "description": "Développement du front-end React pour Kasa avec composants réutilisables.",
+      "image": "../assets/kasa.png",
+      "technologies": ["React", "React Router", "Vite", "Sass", "JavaScript"],
+      "realisation": [
+        "J’ai construit une architecture de composants React réutilisables, conforme aux guidelines internes et au design système fourni.",
+        "J’ai implémenté la navigation entre pages via React Router et créé des composants animés pour la galerie et les collapsibles.",
+        "L’ensemble du front-end a été développé pour être responsive et prêt à intégrer le back-end, tout en respectant les maquettes Figma."
+      ],
+      "info": "Contexte : Kasa souhaitait moderniser son interface de location immobilière avec une expérience utilisateur fluide.\nObjectifs : Développer un front-end performant et responsive avec React, intégrer les maquettes Figma et créer des composants réutilisables.\nRésultats : Application React fonctionnelle et animée, avec navigation fluide, responsive et conforme au design système, prête à intégrer le back-end.",
+      "link": "https://github.com/lbrugiere/Kasa-Projet5"
+    },
+    {
+      "id": 5,
+      "title": "Site de notation de livres",
+      "description": "Développement back-end Node.js/Express/MongoDB pour gestion des livres et notations.",
+      "image": "../assets/livres.png",
+      "technologies": ["Node.js", "Express", "MongoDB", "Mongoose", "API REST", "MVC"],
+      "realisation": [
+        "J’ai développé une API sécurisée avec Node.js et Express pour gérer les livres, les notations et les utilisateurs.",
+        "J’ai structuré le projet selon le modèle MVC et optimisé le code pour la maintenabilité et les bonnes pratiques.",
+        "Le système inclut une authentification sécurisée et un stockage optimisé des images, permettant une intégration fluide avec le front-end React."
+      ],
+      "info": "Contexte : Création d'un site pour noter et référencer des livres afin d'améliorer la visibilité d'une librairie.\nObjectifs : Développer une API back-end sécurisée et robuste, gérer les utilisateurs et les livres, et structurer le projet selon MVC.\nRésultats : Back-end complet et sécurisé, permettant au front-end React de fonctionner pleinement, avec des opérations CRUD efficaces et une gestion optimisée des images.",
+      "link": "https://github.com/lbrugiere/Mon-Vieux-Grimoire-Projet6"
+    }
+  ]
+    
+  
