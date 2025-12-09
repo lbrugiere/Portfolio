@@ -20,7 +20,7 @@ export default function SkillsCarousel({ skills }) {
   return (
     <div className="relative w-full flex items-center">
       <button onClick={() => scroll("left")} className="p-2 hidden md:block">
-        <ChevronLeft className="w-8 h-8 text-light-accent hover:text-warm-accent" />
+        <ChevronLeft className="w-8 h-8 text-light-accent hover:text-warm-accent" aria-label="Scroll skills to the left"/>
       </button>
       <div
         ref={scrollRef}
@@ -53,7 +53,7 @@ export default function SkillsCarousel({ skills }) {
         })}
       </div>
       <button onClick={() => scroll("right")} className="p-2 hidden md:block">
-        <ChevronRight className="w-8 h-8 text-light-accent hover:text-warm-accent" />
+        <ChevronRight className="w-8 h-8 text-light-accent hover:text-warm-accent" aria-label="Scroll skills to the right" />
       </button>
     </div>
   );

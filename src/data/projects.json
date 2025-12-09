@@ -17,7 +17,7 @@
       "id": 2,
       "title": "Portfolio Architecte",
       "description": "Développement d'une page web dynamique avec connexion admin et modale d’upload.",
-      "image": "",
+      "image": "../assets/architecte.png",
       "technologies": ["JavaScript", "HTML", "CSS", "API REST", "Figma"],
       "realisation": [
         "J’ai transformé une maquette statique en une page web dynamique, capable d’afficher les travaux et d’interagir avec l’utilisateur via JavaScript.",
@@ -31,7 +31,7 @@
       "id": 3,
       "title": "Site de photographe",
       "description": "Audit et optimisation du site de Nina Carducci pour performances et accessibilité.",
-      "image": "",
+      "image": "../assets/photographe.png",
       "technologies": ["HTML", "CSS", "JavaScript", "Lighthouse", "Wave", "SEO"],
       "realisation": [
         "J’ai réalisé un audit complet du site avec Lighthouse et Wave afin d’identifier les problèmes de performance, d’accessibilité et de SEO.",

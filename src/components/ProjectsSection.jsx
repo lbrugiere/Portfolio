@@ -26,7 +26,7 @@ export default function ProjectsSection({ onProjectClick }) {
               <img 
                 src={project.image} 
                 alt={project.title} 
-                className="rounded-t-lg mb-4 object-cover w-full h-48" />
+                className="rounded-t-lg mb-4 object-top object-cover w-full h-60" />
 
                 <div className="flex justify-center gap-3 pb-2">
                   {project.technologies?.map((tech, index) => {

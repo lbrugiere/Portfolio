@@ -24,7 +24,7 @@ export default function ContactSection() {
         <div className="mt-8">
           <GlowButton
             text="Mon profil LinkedIn"
-            href="https://www.linkedin.com/in/TON-LIEN"
+            href="https://www.linkedin.com/in/léa-brugière-b0769b3a0"
             target="_blank"
           />
         </div>

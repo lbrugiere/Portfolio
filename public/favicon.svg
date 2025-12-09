@@ -10,11 +10,11 @@
 
 <text 
  x="50%" 
- y="58%" 
+ y="75%" 
  text-anchor="middle" 
- font-size="300" 
+ font-size="400" 
  font-family="Georgia, serif" 
- fill="#E4A36F">
+ fill="#D8C3AB">
 L </text>
 
 </svg>

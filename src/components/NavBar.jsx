@@ -25,7 +25,10 @@ export default function NavBar() {
       </ul>
 
       <div className="md:hidden">
-        <button onClick={() => setOpen(!open)}>
+        <button 
+          onClick={() => setOpen(!open)}
+          aria-label={open ? "Fermer le menu" : "Ouvrir le menu"}
+        >
           {open ? <X size={24} /> : <Menu size={24} />}
         </button>
 

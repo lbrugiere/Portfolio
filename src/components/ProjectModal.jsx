@@ -20,10 +20,14 @@ onClick={onClose}>
     <p className="font-serif text-gray-300 italic text-center mb-3">{project.description}</p>
 
     {project.image && (
-      <img
-        src={project.image}
-        alt={project.title}
-        className="w-80 h-auto max-h-64 object-cover mb-6 mx-auto"/>
+      <div className="relative mx-auto mb-6 transition-all duration-500 ease-out 
+      w-full max-w-md h-[38vh] hover:max-w-xl hover:h-[55vh] overflow-hidden rounded-lg">
+<img
+src={project.image}
+alt={project.title}
+className="w-full h-full object-cover object-top"
+/>
+</div>
     )}
 
     <div className="grid grid-cols-1 md:grid-cols-2 gap-15 px-8 text-gray-300 text-sm">
