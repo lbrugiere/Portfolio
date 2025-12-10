@@ -3,7 +3,7 @@
       "id": 1,
       "title": "Application de recherche d'hébergements et d'activités",
       "description": "Intégration complète de la maquette d’un site de recherche d’hébergements et d’activités",
-      "image": "../assets/booki.png",
+      "image": "../assets/booki.webp",
       "technologies": ["HTML", "CSS"],
       "realisation": [
         "J’ai conçu et intégré une interface responsive fidèle aux maquettes desktop, tablette et mobile, assurant une navigation fluide pour tous les utilisateurs.",
@@ -17,7 +17,7 @@
       "id": 2,
       "title": "Portfolio Architecte",
       "description": "Développement d'une page web dynamique avec connexion admin et modale d’upload.",
-      "image": "../assets/architecte.png",
+      "image": "../assets/architecte.webp",
       "technologies": ["JavaScript", "HTML", "CSS", "API REST", "Figma"],
       "realisation": [
         "J’ai transformé une maquette statique en une page web dynamique, capable d’afficher les travaux et d’interagir avec l’utilisateur via JavaScript.",
@@ -31,7 +31,7 @@
       "id": 3,
       "title": "Site de photographe",
       "description": "Audit et optimisation du site de Nina Carducci pour performances et accessibilité.",
-      "image": "../assets/photographe.png",
+      "image": "../assets/photographe.webp",
       "technologies": ["HTML", "CSS", "JavaScript", "Lighthouse", "Wave", "SEO"],
       "realisation": [
         "J’ai réalisé un audit complet du site avec Lighthouse et Wave afin d’identifier les problèmes de performance, d’accessibilité et de SEO.",
@@ -45,7 +45,7 @@
       "id": 4,
       "title": "Application de location immobilière",
       "description": "Développement du front-end React pour Kasa avec composants réutilisables.",
-      "image": "../assets/kasa.png",
+      "image": "../assets/kasa.webp",
       "technologies": ["React", "React Router", "Vite", "Sass", "JavaScript"],
       "realisation": [
         "J’ai construit une architecture de composants React réutilisables, conforme aux guidelines internes et au design système fourni.",
@@ -59,7 +59,7 @@
       "id": 5,
       "title": "Site de notation de livres",
       "description": "Développement back-end Node.js/Express/MongoDB pour gestion des livres et notations.",
-      "image": "../assets/livres.png",
+      "image": "../assets/livres.webp",
       "technologies": ["Node.js", "Express", "MongoDB", "Mongoose", "API REST", "MVC"],
       "realisation": [
         "J’ai développé une API sécurisée avec Node.js et Express pour gérer les livres, les notations et les utilisateurs.",

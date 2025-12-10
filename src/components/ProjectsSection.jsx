@@ -9,7 +9,7 @@ export default function ProjectsSection({ onProjectClick }) {
     initial={{ opacity: 0, y: 50 }}
     whileInView={{ opacity: 1, y: 0 }}
     viewport={{ once: true, amount: 0.3 }}
-    transition={{ duration: 0.9 }} 
+    transition={{ duration: 0.7 }} 
     id="projects" 
     className="bg-dark-secondary py-16">
       <div className="max-w-6xl mx-auto px-6">
@@ -25,7 +25,8 @@ export default function ProjectsSection({ onProjectClick }) {
               onClick={() => onProjectClick(project)}>
               <img 
                 src={project.image} 
-                alt={project.title} 
+                alt={project.title}
+                loading="lazy"
                 className="rounded-t-lg mb-4 object-top object-cover w-full h-60" />
 
                 <div className="flex justify-center gap-3 pb-2">

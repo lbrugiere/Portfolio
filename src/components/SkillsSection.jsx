@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import SkillsCarousel from "./SkillsCarousel";
-import skills from "../utils/skills";
+import skills from "../data/skills";
 
 
 export default function SkillsSection() {
